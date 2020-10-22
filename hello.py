@@ -1,4 +1,3 @@
 print("Hello, world!")
 print("Hi, how are you?")
-print("testing"
-)
+print("this is a test")
